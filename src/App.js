@@ -9,6 +9,7 @@ function App() {
   const classes=useStyles()
   const edit=()=>{
     console.log("Hi mamaa")
+    console.log("Hi mamaa22")
   }
   return (
     <>
